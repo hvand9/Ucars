@@ -1,0 +1,37 @@
+body {
+    font: 30px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: rgba(226, 219, 219, 0.884);
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+    background-color: #1abc9c; /* Green */
+    color: #1b1616;
+  }
+  .bg-2 { 
+    background-color: #c3c7d1; /* Dark Blue */
+    color: #1a1717;
+  
+  }
+  .bg-4 { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: rgb(14, 12, 12);
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  
+  
+  
+  
